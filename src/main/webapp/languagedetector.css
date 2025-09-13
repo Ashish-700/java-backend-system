@@ -1,0 +1,16 @@
+@charset "UTF-8";
+body {
+    background: pink;
+    font-family: Arial, sans-serif;
+}
+
+.locale-box {
+    border: 2px solid white;
+    margin: 100px auto;
+    padding: 40px;
+    width: 400px;
+    text-align: center;
+    background: #ffe6f2;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+}
